@@ -15,7 +15,7 @@ combination_I = [3, "average", 3]
 combination_II = [3]
 activation = "sigmoid"
 reg_strength = 1e-9
-epochs = 100
+epochs = 10
 
 data = MNIST()
 
